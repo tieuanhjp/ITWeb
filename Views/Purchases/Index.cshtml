@@ -1,0 +1,99 @@
+﻿@model IEnumerable<ITWebManagement.Models.Purchase>
+@{
+    ViewData["Title"] = "Danh sách mua hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-list me-2"></i>Danh sách mua hàng</h2>
+
+    <div class="mb-3 d-flex justify-content-between">
+        <form asp-action="Index" method="get" class="d-flex">
+            <input type="text" name="searchString" class="form-control me-2" placeholder="Tìm kiếm..." value="@ViewData["CurrentFilter"]" />
+            <button type="submit" class="btn btn-primary">Tìm</button>
+        </form>
+        <div>
+            @if (User.IsInRole("admin"))
+            {
+                <a asp-action="Create" class="btn btn-success me-2"><i class="fas fa-plus"></i> Thêm mới</a>
+                <button type="button" class="btn btn-primary me-2" data-bs-toggle="modal" data-bs-target="#importExcelModal"><i class="fas fa-file-import"></i> Nhập Excel</button>
+                <a asp-action="ExportExcel" class="btn btn-primary me-2"><i class="fas fa-file-export"></i> Xuất Excel</a>
+                <a asp-action="DeleteAll" class="btn btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa toàn bộ dữ liệu?');"><i class="fas fa-trash"></i> Xóa toàn bộ</a>
+            }
+        </div>
+    </div>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.AssetCode)</th>
+                <th>@Html.DisplayNameFor(model => model.Quantity)</th>
+                <th>@Html.DisplayNameFor(model => model.UnitPrice)</th>
+                <th>@Html.DisplayNameFor(model => model.TotalPrice)</th>
+                <th>@Html.DisplayNameFor(model => model.Time)</th>
+                <th>@Html.DisplayNameFor(model => model.Department)</th>
+                <th>@Html.DisplayNameFor(model => model.SupplierID)</th>
+                @if (User.IsInRole("admin"))
+                {
+                    <th>Thao tác</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.AssetCode)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                    <td>@Html.DisplayFor(modelItem => item.UnitPrice)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TotalPrice)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Time, "{0:MM-yyyy}")</td>
+                    <td>@Html.DisplayFor(modelItem => item.Department)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SupplierID)</td>
+                    @if (User.IsInRole("admin"))
+                    {
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.PurchaseID" class="btn btn-primary btn-sm"><i class="fas fa-edit"></i> Sửa</a>
+                            <a asp-action="Delete" asp-route-id="@item.PurchaseID" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Xóa</a>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal for Import Excel -->
+<div class="modal fade" id="importExcelModal" tabindex="-1" aria-labelledby="importExcelModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="importExcelModalLabel">Nhập dữ liệu từ Excel</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form asp-action="ImportExcel" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+                        <label for="file" class="form-label">Chọn file Excel</label>
+                        <input type="file" class="form-control" id="file" name="file" accept=".xlsx, .xls" />
+                    </div>
+                    <button type="submit" class="btn btn-primary">Tải lên</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+}

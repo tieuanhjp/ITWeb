@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ITWebManagement.Models.Supplier>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-truck me-2"></i>Đăng ký NCC</h2>
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+    <div class="mb-3 d-flex gap-2">
+        <a href="/Config/RegisterSupplierCreate" class="btn btn-custom">Thêm NCC</a>
+        <form asp-action="ImportSupplierExcel" method="post" enctype="multipart/form-data" class="d-flex align-items-center gap-2">
+            <input type="file" name="file" accept=".xlsx" class="form-control w-auto" />
+            <button type="submit" class="btn btn-custom">Nhập Excel</button>
+        </form>
+        <a href="/Config/ExportSupplierExcel" class="btn btn-custom">Xuất Excel</a>
+        <form asp-action="DeleteAllSuppliers" method="post" onsubmit="return confirm('Bạn có chắc muốn xóa toàn bộ NCC?');">
+            <button type="submit" class="btn btn-danger">Xóa toàn bộ</button>
+        </form>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Mã nhà cung cấp</th>
+                <th>Tên nhà cung cấp</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.SupplierID</td>
+                    <td>@item.SupplierName</td>
+                    <td>
+                        <a href="/Config/EditSupplier/@item.SupplierID" class="btn btn-sm btn-warning">Sửa</a>
+                        <a href="/Config/DeleteSupplier/@item.SupplierID" class="btn btn-sm btn-danger">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

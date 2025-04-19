@@ -1,0 +1,47 @@
+﻿@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "Thống kê dự toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-chart-bar me-2"></i>Thống kê dự toán</h2>
+
+    <div class="mb-3">
+        <form asp-action="Statistics" method="get" class="d-flex">
+            <select name="month" class="form-control me-2" style="width: 150px;">
+                <option value="">Chọn tháng</option>
+                @for (int i = 1; i <= 12; i++)
+                {
+                    <option value="@i" @(ViewBag.SelectedMonth == i ? "selected" : "")>@i</option>
+                }
+            </select>
+            <select name="year" class="form-control me-2" style="width: 150px;">
+                <option value="">Chọn năm</option>
+                @for (int i = 2020; i <= DateTime.Now.Year; i++)
+                {
+                    <option value="@i" @(ViewBag.SelectedYear == i ? "selected" : "")>@i</option>
+                }
+            </select>
+            <button type="submit" class="btn btn-primary">Lọc</button>
+        </form>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Tháng/Năm</th>
+                <th>Tổng giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.YearMonth</td>
+                    <td>@item.TotalPrice.ToString("N0")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

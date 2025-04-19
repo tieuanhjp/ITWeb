@@ -1,0 +1,61 @@
+﻿@model ITWebManagement.Models.Device
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-trash me-2"></i>Xóa thiết bị</h2>
+    <h3>Bạn có chắc chắn muốn xóa mục này?</h3>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AssetCode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AssetCode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Depreciation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Depreciation)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Department)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Department)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+    </dl>
+    <form asp-action="Delete" method="post" novalidate>
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="AssetCode" name="AssetCode" />
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <button type="submit" class="btn btn-danger">Xóa</button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </div>
+    </form>
+</div>

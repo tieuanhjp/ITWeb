@@ -1,0 +1,1213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\outbound\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\outbound\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\outbound\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\outbound\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\outbound\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\outbound\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\outbound\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\outbound\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\outboundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\outboundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\outbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\outbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\estimatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\estimatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\registerdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\registerdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\devices\\registerdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\devices\\registerdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\inventory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\inventory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\inventory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\inventory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\inventory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\inventory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\purchases\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\purchases\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\purchases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\purchases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\estimates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\estimates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\estimates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\estimates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\estimates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\estimates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\inventory\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\inventory\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\inventory\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\inventory\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\estimates\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\estimates\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\purchases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\purchases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\estimates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\estimates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\estimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\estimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\purchases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\purchases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\devices\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\devices\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\deletedepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\deletedepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\editdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\editdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\registerdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\registerdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\deletesupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\deletesupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\editsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\editsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\registersupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\registersupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\deletedevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\deletedevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\editdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\editdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\createdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\createdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\createsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\createsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\config\\createdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\config\\createdevice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|d:\\onedrive - office365\\desktop\\project\\itwebmanagement\\itwebmanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED312F54-B40D-468D-9E07-7029C63B43D5}|ITWebManagement.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 225,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Outbound\\Delete.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Outbound\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T06:57:09.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Outbound\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Outbound\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T06:56:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Export.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Export.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventory\\Export.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Export.cshtml",
+              "RelativeToolTip": "Views\\Inventory\\Export.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T06:15:54.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDevice.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\RegisterDevice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\RegisterDevice.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\RegisterDevice.cshtml",
+              "RelativeToolTip": "Views\\Devices\\RegisterDevice.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T06:13:39.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T05:24:24.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suppliers\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Suppliers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T05:23:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Delete.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Delete.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T05:22:50.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Statistics.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Statistics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventory\\Statistics.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Statistics.cshtml",
+              "RelativeToolTip": "Views\\Inventory\\Statistics.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T02:12:37.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Statistics.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Statistics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estimates\\Statistics.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Statistics.cshtml",
+              "RelativeToolTip": "Views\\Estimates\\Statistics.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T02:11:52.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADUBAAAAAAAAAAAYwFMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-19T02:03:41.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAkwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:20:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwGgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:39:33.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:04:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Statistics.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Statistics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Statistics.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Statistics.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Statistics.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:21:41.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PurchasesController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\PurchasesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PurchasesController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\PurchasesController.cs",
+              "RelativeToolTip": "Controllers\\PurchasesController.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAkwD8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:31:43.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwE0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:08:47.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DevicesController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "Controllers\\DevicesController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:30:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstimatesController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\EstimatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstimatesController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\EstimatesController.cs",
+              "RelativeToolTip": "Controllers\\EstimatesController.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAkwCMBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:31:30.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:31:53.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DeleteDepartment.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\DeleteDepartment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\DeleteDepartment.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\DeleteDepartment.cshtml",
+              "RelativeToolTip": "Views\\Config\\DeleteDepartment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:52:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RegisterDepartment.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\RegisterDepartment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\RegisterDepartment.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\RegisterDepartment.cshtml",
+              "RelativeToolTip": "Views\\Config\\RegisterDepartment.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:51:33.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeleteSupplier.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\DeleteSupplier.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\DeleteSupplier.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\DeleteSupplier.cshtml",
+              "RelativeToolTip": "Views\\Config\\DeleteSupplier.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:51:12.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DeleteDevice.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\DeleteDevice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\DeleteDevice.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\DeleteDevice.cshtml",
+              "RelativeToolTip": "Views\\Config\\DeleteDevice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:50:16.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventory\\Delete.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Inventory\\Delete.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:45:36.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventory\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Index.cshtml",
+              "RelativeToolTip": "Views\\Inventory\\Index.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:36:17.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Purchases\\Delete.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Purchases\\Delete.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:44:43.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EditDepartment.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\EditDepartment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\EditDepartment.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\EditDepartment.cshtml",
+              "RelativeToolTip": "Views\\Config\\EditDepartment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:31:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Purchases\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Index.cshtml",
+              "RelativeToolTip": "Views\\Purchases\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:35:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDevice.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\RegisterDevice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\RegisterDevice.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\RegisterDevice.cshtml",
+              "RelativeToolTip": "Views\\Config\\RegisterDevice.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:21:12.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RegisterSupplier.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\RegisterSupplier.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\RegisterSupplier.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\RegisterSupplier.cshtml",
+              "RelativeToolTip": "Views\\Config\\RegisterSupplier.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:21:23.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EditSupplier.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\EditSupplier.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\EditSupplier.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\EditSupplier.cshtml",
+              "RelativeToolTip": "Views\\Config\\EditSupplier.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:31:23.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estimates\\Delete.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Estimates\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:42:39.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EditDevice.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\EditDevice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\EditDevice.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\EditDevice.cshtml",
+              "RelativeToolTip": "Views\\Config\\EditDevice.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:31:15.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estimates\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Estimates\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:30:43.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estimates\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estimates\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:34:36.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:30:35.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventory\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Inventory\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:30:59.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Index.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwD8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:33:34.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Purchases\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Purchases\\Edit.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:30:51.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateDepartment.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\CreateDepartment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\CreateDepartment.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\CreateDepartment.cshtml",
+              "RelativeToolTip": "Views\\Config\\CreateDepartment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:25:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateSupplier.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\CreateSupplier.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\CreateSupplier.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\CreateSupplier.cshtml",
+              "RelativeToolTip": "Views\\Config\\CreateSupplier.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:25:28.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateDevice.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\CreateDevice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\CreateDevice.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\CreateDevice.cshtml",
+              "RelativeToolTip": "Views\\Config\\CreateDevice.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:25:01.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Config\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Config\\Index.cshtml",
+              "RelativeToolTip": "Views\\Config\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:20:38.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:05:57.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:06:34.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:04:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:28:31.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:37:17.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T13:20:38.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:29:23.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOEUAAAAAAAAAAAwwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-18T14:37:37.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:28:18.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:27:58.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:22:01.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:32:34.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutboundController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\OutboundController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OutboundController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\OutboundController.cs",
+              "RelativeToolTip": "Controllers\\OutboundController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:32:09.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:26:08.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:32:46.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Outbound\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Create.cshtml",
+              "RelativeToolTip": "Views\\Outbound\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:37:01.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:37:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Purchases\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Purchases\\Create.cshtml",
+              "RelativeToolTip": "Views\\Purchases\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:35:53.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Suppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suppliers\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Suppliers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Suppliers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:38:59.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Suppliers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Suppliers\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Suppliers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Suppliers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:39:15.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Outbound\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Outbound\\Index.cshtml",
+              "RelativeToolTip": "Views\\Outbound\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:36:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventory\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Inventory\\Create.cshtml",
+              "RelativeToolTip": "Views\\Inventory\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:36:30.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estimates\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Estimates\\Create.cshtml",
+              "RelativeToolTip": "Views\\Estimates\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:34:52.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Devices\\Create.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:34:03.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "Models\\Purchase.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Purchase.cs",
+              "RelativeToolTip": "Models\\Purchase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:25:50.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Outbound.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Outbound.cs",
+              "RelativeDocumentMoniker": "Models\\Outbound.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Outbound.cs",
+              "RelativeToolTip": "Models\\Outbound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:27:41.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Estimate.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Estimate.cs",
+              "RelativeDocumentMoniker": "Models\\Estimate.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\Estimate.cs",
+              "RelativeToolTip": "Models\\Estimate.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:25:18.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:51:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:00:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T14:00:02.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\OneDrive - Office365\\Desktop\\Project\\ITWebManagement\\ITWebManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T13:50:37.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

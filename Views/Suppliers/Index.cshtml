@@ -1,0 +1,20 @@
+﻿@model IEnumerable<ITWebManagement.Models.Supplier>
+
+<h2>Quản lý nhà cung cấp</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã nhà cung cấp</th>
+            <th>Tên nhà cung cấp</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.SupplierID</td>
+                <td>@item.SupplierName</td>
+            </tr>
+        }
+    </tbody>
+</table>

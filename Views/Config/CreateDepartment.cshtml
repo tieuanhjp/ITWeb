@@ -1,0 +1,28 @@
+﻿@model ITWebManagement.Models.Department
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-building me-2"></i>Thêm bộ phận</h2>
+    <form asp-action="RegisterDepartmentCreate" asp-controller="Config">
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+        <div class="mb-3">
+            <label asp-for="DepartmentCode" class="form-label">Mã bộ phận</label>
+            <input asp-for="DepartmentCode" class="form-control" />
+            <span asp-validation-for="DepartmentCode" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="DepartmentName" class="form-label">Tên bộ phận</label>
+            <input asp-for="DepartmentName" class="form-control" />
+            <span asp-validation-for="DepartmentName" class="text-danger"></span>
+        </div>
+        <div class="d-grid">
+            <button type="submit" class="btn btn-custom">Thêm</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,44 @@
+﻿@model ITWebManagement.Models.Inventory
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-plus me-2"></i>Thêm nhập kho</h2>
+    <form asp-action="Create" method="post" novalidate>
+        @Html.AntiForgeryToken()
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+        <div class="mb-3">
+            <label asp-for="AssetCode" class="form-label">Mã thiết bị</label>
+            <input asp-for="AssetCode" class="form-control" name="AssetCode" />
+            <span asp-validation-for="AssetCode" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Model" class="form-label">Model</label>
+            <input asp-for="Model" class="form-control" name="Model" />
+            <span asp-validation-for="Model" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Quantity" class="form-label">Số lượng</label>
+            <input asp-for="Quantity" class="form-control" name="Quantity" />
+            <span asp-validation-for="Quantity" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Time" class="form-label">Thời gian</label>
+            <input asp-for="Time" class="form-control" type="date" name="Time" />
+            <span asp-validation-for="Time" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ImportedBy" class="form-label">Người nhập</label>
+            <input asp-for="ImportedBy" class="form-control" name="ImportedBy" />
+            <span asp-validation-for="ImportedBy" class="text-danger"></span>
+        </div>
+        <div class="d-grid">
+            <button type="submit" class="btn btn-custom">Thêm</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

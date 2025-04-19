@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ITWebManagement.Models.Department>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-cog me-2"></i>Đăng ký bộ phận</h2>
+    @if (User?.Identity?.IsAuthenticated == true && User.IsInRole("admin"))
+    {
+        <a href="/Departments/Create" class="btn btn-custom mb-3">Thêm bộ phận</a>
+    }
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Mã bộ phận</th>
+                <th>Tên bộ phận</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.DepartmentCode</td>
+                    <td>@item.DepartmentName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

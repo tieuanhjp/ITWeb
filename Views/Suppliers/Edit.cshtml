@@ -1,0 +1,30 @@
+﻿@model ITWebManagement.Models.Supplier
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-edit me-2"></i>Sửa nhà cung cấp</h2>
+    <form asp-action="EditSupplier" method="post" novalidate>
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="SupplierID" name="SupplierID" />
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+        <div class="mb-3">
+            <label asp-for="SupplierID" class="form-label">Mã nhà cung cấp</label>
+            <input asp-for="SupplierID" class="form-control" name="SupplierID" disabled />
+            <span asp-validation-for="SupplierID" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="SupplierName" class="form-label">Tên nhà cung cấp</label>
+            <input asp-for="SupplierName" class="form-control" name="SupplierName" />
+            <span asp-validation-for="SupplierName" class="text-danger"></span>
+        </div>
+        <div class="d-grid">
+            <button type="submit" class="btn btn-custom">Lưu</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+}

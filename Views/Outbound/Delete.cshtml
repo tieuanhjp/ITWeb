@@ -1,0 +1,43 @@
+﻿@model ITWebManagement.Models.Outbound
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-trash me-2"></i>Xóa xuất kho</h2>
+    <h3>Bạn có chắc chắn muốn xóa mục này?</h3>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AssetCode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AssetCode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Time)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ExportedBy)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ExportedBy)
+        </dd>
+    </dl>
+    <form asp-action="Delete" method="post" novalidate>
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="OutboundID" name="OutboundID" />
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <button type="submit" class="btn btn-danger">Xóa</button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ITWebManagement.Models.Device>
+@{
+    ViewData["Title"] = "Quản lý mã thiết bị";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-list me-2"></i>Quản lý mã thiết bị</h2>
+
+    <div class="mb-3 d-flex justify-content-between">
+        <form asp-action="RegisterDevice" method="get" class="d-flex">
+            <input type="text" name="searchString" class="form-control me-2" placeholder="Tìm kiếm..." value="@ViewData["CurrentFilter"]" />
+            <button type="submit" class="btn btn-primary">Tìm</button>
+        </form>
+        <div>
+            @if (User.IsInRole("admin"))
+            {
+                <a asp-action="RegisterDeviceCreate" class="btn btn-success me-2"><i class="fas fa-plus"></i> Thêm mới</a>
+            }
+        </div>
+    </div>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.AssetCode)</th>
+                <th>@Html.DisplayNameFor(model => model.Model)</th>
+                <th>@Html.DisplayNameFor(model => model.StartDate)</th>
+                <th>@Html.DisplayNameFor(model => model.EndDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Depreciation)</th>
+                <th>@Html.DisplayNameFor(model => model.Department)</th>
+                <th>@Html.DisplayNameFor(model => model.Status)</th>
+                @if (User.IsInRole("admin"))
+                {
+                    <th>Thao tác</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.AssetCode)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Model)</td>
+                    <td>@Html.DisplayFor(modelItem => item.StartDate, "{0:MM-yyyy}")</td>
+                    <td>@Html.DisplayFor(modelItem => item.EndDate, "{0:MM-yyyy}")</td>
+                    <td>@Html.DisplayFor(modelItem => item.Depreciation)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Department)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                    @if (User.IsInRole("admin"))
+                    {
+                        <td>
+                            <a asp-action="Edit" asp-controller="Devices" asp-route-id="@item.AssetCode" class="btn btn-primary btn-sm"><i class="fas fa-edit"></i> Sửa</a>
+                            <a asp-action="Delete" asp-controller="Devices" asp-route-id="@item.AssetCode" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Xóa</a>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

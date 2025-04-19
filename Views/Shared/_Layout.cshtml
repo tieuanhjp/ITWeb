@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IT Management System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&subset=vietnamese" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body class="@(ViewContext.HttpContext.Request.Cookies["theme"] == "dark" ? "dark-mode" : "")">
+    <div class="header">
+        <h1><i class="fas fa-cogs me-2"></i>IT Management System</h1>
+        <div class="d-flex align-items-center">
+            <div class="user-info me-3">
+                @if (User?.Identity?.IsAuthenticated == true)
+                {
+                    <span><i class="fas fa-user me-1"></i>@User.Identity.Name</span>
+                }
+                else
+                {
+                    <span><i class="fas fa-user-slash me-1"></i>Guest</span>
+                }
+            </div>
+            <i class="fas fa-sun theme-toggle" id="themeToggle"></i>
+            <i class="fas fa-bars toggle-btn ms-3" id="toggleSidebar"></i>
+        </div>
+    </div>
+    <div class="sidebar" id="sidebar">
+        @{
+            var currentController = ViewContext.RouteData.Values["controller"]?.ToString();
+        }
+        <a href="/Devices" class="@(currentController == "Devices" ? "active" : "")" data-tooltip="Quản lý thiết bị">
+            <i class="fas fa-desktop"></i><span>Quản lý thiết bị</span>
+        </a>
+        <a href="/Estimates" class="@(currentController == "Estimates" ? "active" : "")" data-tooltip="Quản lý dự toán">
+            <i class="fas fa-calculator"></i><span>Quản lý dự toán</span>
+        </a>
+        @if (User?.Identity?.IsAuthenticated == true && User.IsInRole("admin"))
+        {
+            <a href="/Purchases" class="@(currentController == "Purchases" ? "active" : "")" data-tooltip="Quản lý mua hàng">
+                <i class="fas fa-shopping-cart"></i><span>Quản lý mua hàng</span>
+            </a>
+            <a href="/Inventory" class="@(currentController == "Inventory" ? "active" : "")" data-tooltip="Quản lý kho">
+                <i class="fas fa-warehouse"></i><span>Quản lý kho</span>
+            </a>
+            <a href="/Config" class="@(currentController == "Config" ? "active" : "")" data-tooltip="Config">
+                <i class="fas fa-cog"></i><span>Config</span>
+            </a>
+        }
+        @if (User?.Identity?.IsAuthenticated != true)
+        {
+            <a href="/Account/Login" class="@(currentController == "Account" ? "active" : "")" data-tooltip="Đăng nhập">
+                <i class="fas fa-sign-in-alt"></i><span>Đăng nhập</span>
+            </a>
+        }
+        else
+        {
+            <a href="/Account/Logout" class="@(currentController == "Account" ? "active" : "")" data-tooltip="Đăng xuất">
+                <i class="fas fa-sign-out-alt"></i><span>Đăng xuất</span>
+            </a>
+        }
+    </div>
+    <div class="main-content" id="mainContent">
+        @RenderBody()
+    </div>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Sidebar toggle
+            $('#toggleSidebar').click(function() {
+                $('#sidebar').toggleClass('collapsed');
+                $('#mainContent').toggleClass('collapsed');
+            });
+
+            // Dark/Light mode toggle
+            const themeToggle = $('#themeToggle');
+            const body = $('body');
+            const currentTheme = localStorage.getItem('theme') || 'light';
+            if (currentTheme === 'dark') {
+                body.addClass('dark-mode');
+                themeToggle.removeClass('fa-sun').addClass('fa-moon');
+            }
+
+            themeToggle.click(function() {
+                body.toggleClass('dark-mode');
+                if (body.hasClass('dark-mode')) {
+                    themeToggle.removeClass('fa-sun').addClass('fa-moon');
+                    localStorage.setItem('theme', 'dark');
+                    document.cookie = "theme=dark; path=/";
+                } else {
+                    themeToggle.removeClass('fa-moon').addClass('fa-sun');
+                    localStorage.setItem('theme', 'light');
+                    document.cookie = "theme=light; path=/";
+                }
+            });
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

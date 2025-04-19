@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Thống kê thiết bị";
+}
+
+<div class="table-container">
+    <h2 class="mb-4"><i class="fas fa-chart-pie me-2"></i>Thống kê thiết bị theo khấu hao</h2>
+    <canvas id="depreciationChart" width="400" height="200"></canvas>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            var ctx = document.getElementById('depreciationChart').getContext('2d');
+            var stats = @(Model != null ? Html.Raw(Json.Serialize(Model)) : "[]");
+            var labels = stats.map(item => item.depreciation || 'Không xác định');
+            var data = stats.map(item => item.count || 0);
+
+            new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: data,
+                        backgroundColor: ['#28a745', '#ffc107', '#dc3545'],
+                        borderColor: '#ffffff',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                            labels: {
+                                font: {
+                                    family: 'Roboto',
+                                    size: 14
+                                }
+                            }
+                        },
+                        title: {
+                            display: true,
+                            text: 'Phân bố thiết bị theo khấu hao',
+                            font: {
+                                family: 'Roboto',
+                                size: 18
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}
